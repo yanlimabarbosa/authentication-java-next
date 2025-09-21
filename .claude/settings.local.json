@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker-compose up:*)",
+      "Bash(npm run dev:*)",
+      "Read(//c/Users/yanli/OneDrive/Área de Trabalho/zzzzzzzzzzzzzzzz/**)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(cat:*)",
+      "Bash(docker-compose logs:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
